@@ -1,4 +1,8 @@
-# todo-app-vue
+# Vue Todo App
+
+A basic todo list app using Vue.
+
+## Template Intro
 
 This template should help get you started developing with Vue 3 in Vite.
 
